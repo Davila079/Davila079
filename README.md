@@ -18,7 +18,7 @@
 
 <!-- About me -->
 <p>
-I'm Alejandro Dávila. I'm a 5th semester student pursuing Bachelors's in computer architecture engineering 🎓 from Universidad de las Américas Puebla (UDLAP) at México 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. I'm currently into react 🕸️ and working on JavaScript 🤓.
+I'm Alejandro Dávila. I'm a 8th semester student pursuing Bachelors's in computer architecture engineering 🎓 from Universidad de las Américas Puebla (UDLAP) at México 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. I'm currently into react 🕸️ and working on JavaScript 🤓.
 </p>
 
 <!-- Personal Stuffs -->
