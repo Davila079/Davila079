@@ -8,17 +8,12 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- visitor counter -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Davila079/count.svg" />
-</p>
-
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <!-- About me -->
 <p>
-I'm Alejandro Dávila. I'm a 8th semester student pursuing Bachelors's in computer architecture engineering 🎓 from Universidad de las Américas Puebla (UDLAP) at México 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. I'm currently into react 🕸️ and working on JavaScript 🤓.
+I'm Alejandro Dávila. I'm a 8th semester student pursuing Bachelors's in computer systems engineering 🎓 at Universidad de las Américas Puebla (UDLAP), México 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. I'm currently into react, javascript and learning about AI.
 </p>
 
 <!-- Personal Stuffs -->
@@ -26,7 +21,7 @@ I'm Alejandro Dávila. I'm a 8th semester student pursuing Bachelors's in comput
 
 - 👋 Hi, I’m Alejandro Dávila
 - 👀 Looking for Internships
-- 🌱 I’m currently learning App development and UI design.
+- 🌱 I’m currently learning App development, UI design and AI aplications in computer vision.
 
 - 📫 How to reach me **[Instagram](http://instagram.com/alejandr07927)**
 
@@ -53,7 +48,7 @@ I'm Alejandro Dávila. I'm a 8th semester student pursuing Bachelors's in comput
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,py,windows,linux,vscode,eclipse,discord,wordpress,figma,github,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,py,kotlin,swift,vscode,eclipse,wordpress,figma,github,windows,linux,postgresql,mysql&perline=14" />
   </a>
 </p>
 
