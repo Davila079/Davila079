@@ -75,7 +75,7 @@ BLOG-POST-LIST:END -->
 <!-- GitHub stats -->
 <b>⚡ My Statistics</b>
 
-<p>
+<p align="center">
 <!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davila079&show_icons=true&hide_border=true" />
 
